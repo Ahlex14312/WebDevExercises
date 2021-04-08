@@ -39,7 +39,7 @@ $endnum = 10;
         $result = $count_1 / $count_2;
         printf("<td>%.3f</td>",
                $result);  
-      }
+      }sdsdsdsaddasd
     print("</tr>\n");
   }
 ?> 
